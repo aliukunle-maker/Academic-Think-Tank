@@ -1,0 +1,5 @@
+{
+  "name": "Academic Think Tank and Reviewer",
+  "description": "An AI-powered tool for reviewing academic documents and brainstorming new research plans. Provides feedback on theses, journal manuscripts, and generates research plans from a topic.",
+  "requestFramePermissions": []
+}
